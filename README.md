@@ -11,6 +11,8 @@ Afra isn't a standalone tool that does all the steps for CFG reconstruction. In 
 
 ![afra_toolchain](assets/images/afra_toolchain.png)
 
+https://github.com/user-attachments/assets/68405acd-30db-485f-b4e3-e3584ce1e487
+
 Written in Rust.
 Tested on the following system:
 - OS: Arch Linux
